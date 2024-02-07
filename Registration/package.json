@@ -73,6 +73,6 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Deep Soni",
+  "author": "Maa Renuka",
   "license": "ISC"
 }
